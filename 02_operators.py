@@ -1,0 +1,10 @@
+"""
+print(2+3)
+print(5-3)
+print(5*3)
+print(9/3)
+print(10%3)
+print(9//3)
+print(9**3)
+"""
+print(9**3+5-2/4%8)
